@@ -4,7 +4,8 @@
 
 body {
   font-family: Georgia, "Times New Roman", Times, serif;
-  color: #555;
+  background: #dddddd url(../img/bg-tile.png) 0 0 repeat;
+  color: #111111;
 }
 
 h1, .h1,

@@ -3,8 +3,8 @@
  */
 
 body {
-  font-family: Georgia, "Times New Roman", Times, serif;
-  background: #fafafa url(../img/bg-tile.png) 0 0 repeat;
+  font-family: Raleway, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background: #ffffff url(../img/bg-tile.png) 0 0 repeat;
   color: #111111;
 }
 
@@ -15,8 +15,7 @@ h4, .h4,
 h5, .h5,
 h6, .h6 {
   margin-top: 0;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-weight: normal;
+  font-weight: 700;
   color: #333;
 }
 
